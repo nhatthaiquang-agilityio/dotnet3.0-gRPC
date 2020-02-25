@@ -1,8 +1,8 @@
-# gRPC And ASP.NET 3.0
-Example with gRPC and ASP NET 3.0
+# gRPC And .NET 3.0
+Example with gRPC and .NET 3.0
 
 ## Requirements
-+ ASP NET Core 3.0
++ DOT NET Core 3.0
 + gRPC
 
 ### Structures
@@ -12,4 +12,4 @@ Example with gRPC and ASP NET 3.0
 
 
 ### Reference
-+[Server Streaming with gRPC and .NET CORE 3.0](https://www.stevejgordon.co.uk/server-streaming-with-grpc-in-asp-dotnet-core)
++ [Server Streaming with gRPC and .NET CORE 3.0](https://www.stevejgordon.co.uk/server-streaming-with-grpc-in-asp-dotnet-core)
